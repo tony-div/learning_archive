@@ -5,21 +5,27 @@ body{
     color: #F0F0F0;
 }
 h1{
-    font-size: 40px;
+    font-size: 50px;
     margin-bottom: 20px;
     margin-left: 10px;
 }
 h2{
-    font-size: 20px;
+    font-size: 30px;
 }
-#month{
+.month{
     padding-left:30px;
 }
-#week{
+.week{
     padding-left:20px;
+    font-size: 28px; 
 }
 .links{
     position: absolute;
     bottom: 0;
+    font-size: 28px; 
     margin: 10px;
+}
+a{
+    text-decoration: none;
+    color: #0398fc;
 }
